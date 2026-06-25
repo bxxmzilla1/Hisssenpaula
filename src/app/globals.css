@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 151 31% 10%;
+    --foreground: 43 44% 93%;
+    --background-section-odd: 151 31% 10%;
+    --background-section-even: 151 31% 12%;
+    --card: 151 31% 12%;
+    --card-foreground: 43 44% 93%;
+    --popover: 151 31% 10%;
+    --popover-foreground: 43 44% 93%;
+    --primary: 24 62% 59%;
+    --primary-foreground: 24 30% 10%;
+    --secondary: 151 31% 15%;
+    --secondary-foreground: 43 44% 93%;
+    --muted: 151 31% 15%;
+    --muted-foreground: 43 44% 80%;
+    --accent: 151 31% 20%;
+    --accent-foreground: 43 44% 93%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 151 31% 20%;
+    --input: 151 31% 20%;
+    --ring: 24 62% 59%;
+    --chart-1: 24 62% 59%;
+    --chart-2: 151 31% 40%;
+    --chart-3: 151 31% 60%;
+    --chart-4: 24 62% 80%;
+    --chart-5: 151 31% 80%;
+  }
+
+  .dark {
+    --background: 151 31% 10%;
+    --foreground: 43 44% 93%;
+    --background-section-odd: 151 31% 10%;
+    --background-section-even: 151 31% 12%;
+    --card: 151 31% 12%;
+    --card-foreground: 43 44% 93%;
+    --popover: 151 31% 10%;
+    --popover-foreground: 43 44% 93%;
+    --primary: 24 62% 59%;
+    --primary-foreground: 24 30% 10%;
+    --secondary: 151 31% 15%;
+    --secondary-foreground: 43 44% 93%;
+    --muted: 151 31% 15%;
+    --muted-foreground: 43 44% 80%;
+    --accent: 151 31% 20%;
+    --accent-foreground: 43 44% 93%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 151 31% 20%;
+    --input: 151 31% 20%;
+    --ring: 24 62% 59%;
+    --chart-1: 24 62% 59%;
+    --chart-2: 151 31% 40%;
+    --chart-3: 151 31% 60%;
+    --chart-4: 24 62% 80%;
+    --chart-5: 151 31% 80%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  *::-webkit-scrollbar {
+    display: none;
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "HISEN - Hispanic Inclusion & Support Network",
+  "short_name": "HISEN",
+  "description": "HISEN accompanies, guides, and strengthens Hispanic families in Alberta, providing culturally and linguistically accessible support.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#11211a",
+  "theme_color": "#11211a",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "health", "social"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A vibrant autumn forest with a path leading through it, symbolizing a journey of growth.",
+      "imageUrl": "https://images.unsplash.com/photo-1507371341162-763b5e419408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhdXR1bW4lMjBmb3Jlc3R8ZW58MHx8fHwxNzYzODc4ODYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "autumn forest"
+    },
+    {
+      "id": "sponsor-1",
+      "description": "Logo for sponsor NatureServe",
+      "imageUrl": "https://images.unsplash.com/photo-1662027067763-770376e710f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bG9nbyUyMG5hdHVyZXxlbnwwfHx8fDE3NjM5MjA2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo nature"
+    },
+    {
+      "id": "sponsor-2",
+      "description": "Logo for sponsor GreenLeaf Corp",
+      "imageUrl": "https://images.unsplash.com/photo-1744526313213-5e9e0d736b2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsb2dvJTIwbGVhZnxlbnwwfHx8fDE3NjM5MjA2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo leaf"
+    },
+    {
+      "id": "sponsor-3",
+      "description": "Logo for sponsor EcoGrowth",
+      "imageUrl": "https://images.unsplash.com/photo-1687145269704-86da114705db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsb2dvJTIwdHJlZXxlbnwwfHx8fDE3NjM5MjA2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo tree"
+    },
+    {
+      "id": "sponsor-4",
+      "description": "Logo for sponsor CommunityFirst Bank",
+      "imageUrl": "https://images.unsplash.com/photo-1724638197379-b5a38b2fffbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb2dvJTIwYnVpbGRpbmd8ZW58MHx8fHwxNzYzOTIwNjc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo building"
+    },
+    {
+      "id": "sponsor-5",
+      "description": "Logo for sponsor The Grove Initiative",
+      "imageUrl": "https://images.unsplash.com/photo-1760574733176-0d9a6ab0e4f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsb2dvJTIwZ3JvdXB8ZW58MHx8fHwxNzYzOTIwNjc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo group"
+    }
+  ]
+}
